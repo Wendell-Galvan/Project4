@@ -1,0 +1,20 @@
+.dropdown-container{
+  position: relative;
+}
+h1{
+  font-size: 100px;
+  color: white;
+}
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
+header{
+  background-image: url(https://images.squarespace-cdn.com/content/v1/5ae76a0f9772ae2e875cfc6e/1579187953445-ZXQ0T9EYRD4Q7VHH75PQ/HML02471-EFFECTS.jpg?format=300w);
+  background-size: cover;
+  background-position: center;
+}
+.header-content{
+  padding: 100px 15px 70px;
+}
