@@ -18,3 +18,46 @@ header{
 .header-content{
   padding: 100px 15px 70px;
 }
+h2{
+  font-size: 30px;
+}
+#firstp{
+  font-size: 16px;
+}
+.item1{
+  background-image: url(http://free-templates.me/website-templates/download/business-2/images/writing.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.item2{
+  background-image: url(http://free-templates.me/website-templates/download/business-2/images/concert.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.item3{
+  background-image: url(http://free-templates.me/website-templates/download/business-2/images/pencil_sharpener.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.promo-item{
+    height: 200px;
+    line-height: 180px;
+    text-align: center;
+}
+.promo-item h3{
+    font-size: 40px;
+    display: inline-block;
+    vertical-align: middle;
+    color: white;
+}
+.promo-item:hover {
+    background-size: 110%; 
+    border: 10px solid rgba(255,255,255,0.3);
+    line-height: 160px;
+}
+.btn{
+  border-radius: 15px;
+}
+.intro{
+  background-color: yellowgreen;
+}
